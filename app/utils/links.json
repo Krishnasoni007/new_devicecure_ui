@@ -1,0 +1,8 @@
+[
+    { "name": "Home", "href": "/" },
+    { "name": "About", "href": "/about" },
+    { "name": "Screen Protection", "href": "/screen-protection" },
+    { "name": "Blog", "href": "/blogs" },
+    { "name": "Book A Repair", "href": "/book-a-repair" },
+    { "name": "Products", "href": "/products" }
+  ]
